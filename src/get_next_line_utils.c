@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonathro <jonathro@student.42porto.com>    +#+  +:+       +#+        */
+/*   By: jonathro <jonathro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/19 10:29:12 by jonathro          #+#    #+#             */
-/*   Updated: 2024/12/11 10:27:52 by jonathro         ###   ########.fr       */
+/*   Updated: 2024/12/14 18:22:50 by jonathro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../include/get_next_line.h"
+#include "get_next_line.h"
 
 size_t	ft_strlen(const char *s)
 {

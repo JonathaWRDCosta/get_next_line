@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_bonus.h                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonathro <jonathro@student.42porto.com>    +#+  +:+       +#+        */
+/*   By: jonathro <jonathro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/24 03:08:08 by jonathro          #+#    #+#             */
-/*   Updated: 2024/12/02 13:36:47 by jonathro         ###   ########.fr       */
+/*   Updated: 2024/12/14 18:22:49 by jonathro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
